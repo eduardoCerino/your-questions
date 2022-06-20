@@ -18,17 +18,10 @@ Instala todos los paquetes de las dependencias.
 
 ```bashi
 
-npm run start
+npm run dev
 
 ```
 
 Inicia un servidor local para trabajar en desarrollo.
 
 
-```bashi
-
-npm run build
-
-```
-
-Genera los archivos optimizados para despliegue del proyecto.
