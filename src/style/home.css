@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home__container{
+    display: flex;
+    flex-direction: row;
+
+}
+.home__image{
+    width: 30rem;
+}
+.home__left{
+    width: 50%;
+    margin-left: 10% ;
+}
+.home__info{
+    margin-top: 10rem;
+    
+}
+.home__info p {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    width: 50%
+}
+button{
+    padding: .9rem;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    width: 9rem;
+    background-color: blue;
+    color: white;
+}
+.home__right{
+    margin-top: 8rem;
+}

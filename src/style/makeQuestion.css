@@ -1,0 +1,35 @@
+.createQuestion{
+    margin: 5rem 0 0 15rem;
+    width: 50rem;
+    height:25rem;
+    background-color: rgb(238, 238, 238);
+    padding: 2rem;
+    border-radius: .5rem;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+}
+.form-title, .form-body{
+    height: 2rem;
+    border: 1px solid transparent;
+    padding: .3rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.form-body{
+    height: 10rem;
+}
+.btn-primary{
+    cursor: pointer;
+    
+}
+.btn-secondary{
+    padding: .9rem;
+    border: 2.9px solid blue;
+    border-radius: .5rem;
+    width: 9rem;
+    color: blue;
+    margin-left: 2rem;
+}
